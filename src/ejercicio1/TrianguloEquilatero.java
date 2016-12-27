@@ -1,4 +1,4 @@
-package Ejercicio1;
+package ejercicio1;
 
 public class TrianguloEquilatero {
 private double lado;
