@@ -8,7 +8,7 @@ public TrianguloEquilatero(double lado) {
 }
 
 public TrianguloEquilatero() {
-	
+	lado=1;
 }
 
 public double getLado() {
@@ -31,4 +31,12 @@ public double getPerimetro() {
 	return lado;
 
 }
+
+@Override
+public String toString() {
+	return "TrianguloEquilatero [lado=" + lado + ", getAltura()=" + getAltura()
+			+ ", getArea()=" + getArea() + ", getPerimetro()=" + getPerimetro()
+			+ "]";
+}
+
 }
