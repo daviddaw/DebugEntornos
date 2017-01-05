@@ -29,7 +29,7 @@ Crea un main que:
 	Métodos:
 •	Constructor que reciba los tres últimos atributos y cree el objeto. El código se debe generar de forma automática con autoincremento.
 •	Constructor por defecto. El código se debe generar de forma automática con autoincremento.
-•	Constructor que reciba el nombre y color  y cree el objeto. El código se debe generar de forma automática con autoincremento.
+•	Constructor que reciba      el nombre y color  y cree el objeto. El código se debe generar de forma automática con autoincremento.
 •	Métodos get() y set() para los atributos privados.
 •	Método incrementarPrecio que pase como parámetro una cantidad que se sumará al precio del objeto.
 •	Método rebajarPrecio que disminuya en un 10%  el precio del objeto
