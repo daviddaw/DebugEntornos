@@ -1,4 +1,4 @@
-package ejercicio2;
+package parte2;
 
 public class Articulo {
 private  int codigo;
