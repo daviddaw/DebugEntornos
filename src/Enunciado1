@@ -1,0 +1,29 @@
+Ejercicio de depuración
+
+1.	Realiza la depuración del ejercicio nº 22 del apartado Ejercicios de Pseudocódigo: 
+
+	Aceptar números por teclado hasta que la suma de todos ellos sea superior a 1000
+
+Para ello pon un breakpoint al incrementar la variable suma y otro al evaluar la suma. Luego continúa la ejecución con Step Over o Step Into (no uses Step Into en la llamada a LeerTeclado). Debes observar que no cambia nada al respecto. Muestra con varios pantallazos cómo van cambiando las variables. Guarda las pantallas en un fichero llamado Depuracion1TuNombre.
+
+2.	Realiza la depuración del ejercicio nº 5 del apartado Ejercicios de Métodos estáticos: 
+	
+	Escribir un método que reciba como parámetro un nº y devuelva si es o no primo. Usando este método obtener todos los primos de 2 a N introducido por teclado.
+
+Para ello pon un breakpoint en la llamada al método dentro del for. Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over y otra con Step Into. Observa los cambios. Muestra con varios pantallazos cómo van cambiando las variables. Guarda las pantallas en un fichero llamado Depuracion2TuNombre.
+
+3.	Realiza la depuración del ejercicio nº 2 del apartado Ejercicios de Clases y Objetos relativo a la Clase Artículo.
+
+Para ello pon varios breakpoint en el main. Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over y otra con Step Into. Observa los cambios. Muestra con varios pantallazos cómo van cambiando las variables y cómo se va modificando la pila de llamadas según se invoca a métodos de una clase u otra. 
+
+Añade las expresiones siguientes y muestra su valor:
+
+-	Evalúa si el artículo 1 es de color rojo.
+-	Evalúa si el artículo 2 tiene de precio 30€.
+-	Evalúa si el artículo 3 tiene de código el valor 3. 
+
+Guarda las pantallas en un fichero llamado Depuracion3TuNombre.
+
+
+
+
