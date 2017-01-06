@@ -1,4 +1,5 @@
-package parte1;
+package parte1.ejercicio2;
+
 
 public class Metodo04bis {
 
