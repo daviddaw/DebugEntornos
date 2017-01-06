@@ -12,7 +12,11 @@ Guarda las pantallas en un fichero llamado Depuracion1TuNombre.
 	Escribir un método que reciba como parámetro un nº y devuelva si es o no primo. 
 	Usando este método obtener todos los primos de 2 a N introducido por teclado.
 
-Para ello pon un breakpoint en la llamada al método dentro del for. Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over y otra con Step Into. Observa los cambios. Muestra con varios pantallazos cómo van cambiando las variables. Guarda las pantallas en un fichero llamado Depuracion2TuNombre.
+Para ello pon un breakpoint en la llamada al método dentro del for.
+ Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over 
+ y otra con Step Into. Observa los cambios. 
+ Muestra con varios pantallazos cómo van cambiando las variables. 
+ Guarda las pantallas en un fichero llamado Depuracion2TuNombre.
 
 3.	Realiza la depuración del ejercicio nº 2 del apartado Ejercicios de Clases y Objetos relativo a la Clase Artículo.
 
