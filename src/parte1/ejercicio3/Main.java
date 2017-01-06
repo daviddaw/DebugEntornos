@@ -1,4 +1,6 @@
-package parte1;
+package parte1.ejercicio3;
+
+import parte1.LeerTeclado;
 
 public class Main {
 

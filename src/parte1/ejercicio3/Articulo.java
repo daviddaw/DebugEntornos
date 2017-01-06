@@ -1,4 +1,4 @@
-package parte1;
+package parte1.ejercicio3;
 
 public class Articulo {
 private static int contador;	
