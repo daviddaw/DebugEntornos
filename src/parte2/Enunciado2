@@ -5,7 +5,8 @@ Pon los breakpoints que necesites y utiliza el depurador para ver la diferencia
 de ejecución de ambos métodos (con step into).
 
 
-2.- Utilizando el debug analiza el siguiente programa para ver qué error contiene y por qué no hace lo que debería:
+2.- Utilizando el debug analiza el siguiente programa para ver qué error contiene 
+y por qué no hace lo que debería:
 Algoritmo que dado un nº N y una serie de números terminada en 0 indique si el número N se encuentra en la serie.
 
 public class BuscarN {
