@@ -14,7 +14,8 @@ public class Main {
 		System.out.println("Introduzca el color:");
 		color2=LeerTeclado.readString();
 		Articulo Articulo1 = new Articulo(nombre2, color2);
-		Articulo1.setColor(color2);
+		String colorObligatorio= "negro";
+		Articulo1.setColor(colorObligatorio);
 		
 		
 		System.out.println("articulo 2");

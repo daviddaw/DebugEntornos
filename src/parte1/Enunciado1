@@ -18,9 +18,12 @@ Para ello pon un breakpoint en la llamada al método dentro del for.
  Muestra con varios pantallazos cómo van cambiando las variables. 
  Guarda las pantallas en un fichero llamado Depuracion2TuNombre.
 
-3.	Realiza la depuración del ejercicio nº 2 del apartado Ejercicios de Clases y Objetos relativo a la Clase Artículo.
-
-Para ello pon varios breakpoint en el main. Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over y otra con Step Into. Observa los cambios. Muestra con varios pantallazos cómo van cambiando las variables y cómo se va modificando la pila de llamadas según se invoca a métodos de una clase u otra. 
+3.	Realiza la depuración del ejercicio nº 2 
+del apartado Ejercicios de Clases y Objetos relativo a la Clase Artículo.
+Para ello pon varios breakpoint en el main. 
+Debes ejecutar el debug dos veces, una continuando la ejecución con Step Over y otra con Step Into.
+Observa los cambios. Muestra con varios pantallazos cómo van cambiando las variables 
+y cómo se va modificando la pila de llamadas según se invoca a métodos de una clase u otra. 
 
 Añade las expresiones siguientes y muestra su valor:
 
